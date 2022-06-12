@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/hungrr-app/static/css/main.b831bec6.css",
-    "main.js": "/hungrr-app/static/js/main.025431a1.js",
+    "main.js": "/hungrr-app/static/js/main.950b714f.js",
     "static/js/787.0bfdc617.chunk.js": "/hungrr-app/static/js/787.0bfdc617.chunk.js",
     "static/media/restaurant.jpeg": "/hungrr-app/static/media/restaurant.32467e873c5b88ddd29d.jpeg",
     "index.html": "/hungrr-app/index.html",
     "main.b831bec6.css.map": "/hungrr-app/static/css/main.b831bec6.css.map",
-    "main.025431a1.js.map": "/hungrr-app/static/js/main.025431a1.js.map",
+    "main.950b714f.js.map": "/hungrr-app/static/js/main.950b714f.js.map",
     "787.0bfdc617.chunk.js.map": "/hungrr-app/static/js/787.0bfdc617.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b831bec6.css",
-    "static/js/main.025431a1.js"
+    "static/js/main.950b714f.js"
   ]
 }
